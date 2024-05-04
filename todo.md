@@ -43,4 +43,11 @@
 - Quels sont les process que l'on souhaite mettre en place pour l'intelligence collective ? (from Jonathan)
 - Est-ce que l'on met en place une sorte d'ADR pour suivre toutes nos décisions ? (from Jonathan)
 - Est-ce que l'on timebox les discussions sur chaque sujet ? (from Jonathan)
+- Créer un repo privé ou une organisation au lieu de ce repo git public (from Jonathan)
+
+## LATER
 - Prochaine discussion, prochaine action, prochain objectif ? (Dont move)
+
+## NOT TO DISCUSS
+
+
