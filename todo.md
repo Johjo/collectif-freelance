@@ -42,4 +42,5 @@
 - Est-ce qu'on rencontre [Agnès Chaba](https://www.linkedin.com/in/agn%C3%A8s-chaba/) pour nous accompagner dans la prospection ? (from Jonathan)
 - Quels sont les process que l'on souhaite mettre en place pour l'intelligence collective ? (from Jonathan)
 - Est-ce que l'on met en place une sorte d'ADR pour suivre toutes nos décisions ? (from Jonathan)
-- Prochaine discussion, prochaine action, prochain objectif ?
+- Est-ce que l'on timebox les discussions sur chaque sujet ? (from Jonathan)
+- Prochaine discussion, prochaine action, prochain objectif ? (Dont move)
