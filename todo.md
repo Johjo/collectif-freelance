@@ -28,6 +28,7 @@
 - Remplir la page collective.work (from Jonathan)
 - Déterminer un nom pour le collectif (actuellement ytreza.dev) (from Jonathan)
 - Déterminer la rémunération initiale (from Jonathan)
+- Renseigner les profils sur collective.work, surtout la TVA (from Jonathan)
 
 ## NOT A TASK
 
