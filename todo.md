@@ -54,6 +54,9 @@
 - Comment organiser le collectif, occurrence, calendrier partagé, etc... (from Dimitri)
 - Quels sont les process que l'on souhaite mettre en place pour l'intelligence collective ? (from Jonathan)
 - Créer un repo privé ou une organisation au lieu de ce repo git public (from Jonathan)
+- Présentation des différents membres de l'équipe (from Jonathan)
+- Est-ce qu'il y a des personnes administratrices (from Jonathan)
+- Forfait, régie ou autre ? (from Jonathan)
 
 ## LATER
 - Prochaine discussion, prochaine action, prochain objectif ? (Dont move)
