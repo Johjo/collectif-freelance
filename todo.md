@@ -14,7 +14,7 @@
 ## NOT A GOAL
 
 
-
+----------------------------
 
 # TASK
 
@@ -29,8 +29,15 @@
 - Déterminer un nom pour le collectif (actuellement ytreza.dev) (from Jonathan)
 - Déterminer la rémunération initiale (from Jonathan)
 - Renseigner les profils sur collective.work, surtout la TVA (from Jonathan)
+- Ecrire un spitch orienté futur membre du collectif
+- Ecrire un spitch orienté futur client du collectif
+- Ecrire un spitch détaillé orienté membre et client 
 
 ## NOT A TASK
+
+
+----------------------------
+
 
 
 # TO DISCUSS
