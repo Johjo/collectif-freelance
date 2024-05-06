@@ -23,7 +23,7 @@
 ## WIP
 
 ## NEXT
-- Chacun doit donner son TJM de base (from Jonathan)
+- Chacun doit donner son TJM de base sur collective.work (from Jonathan)
 
 ## LATER
 - Remplir la page collective.work (from Jonathan)
