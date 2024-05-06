@@ -14,7 +14,10 @@ On cite : la date, les sujet abordés, les participants, les décisions prises
 C'est le moindre effort pour le moment
 
 ## Rémunération des freelances
-Pour le moment, on a suggéré un montant fixe à définir.
+On fixe le TJM des 3 premiers membres du mob, et ensuite, on avise avec les variations.
+On relancera la discussion pendant ou après la première mission.
+
+
  
 
 
