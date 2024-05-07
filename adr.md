@@ -1,3 +1,12 @@
+# Date 2024-05-06
+Participants : Didier, Dimitri, Jonathan 
+
+Sujets abordés :
+
+## Rédaction des documents :
+Chacun réfléchit à une version de son côté puis on consolide en mob writing.
+
+
 # Date 2024-05-06 - Mise en place d'un ADR
 Participants : Mickael, Dimitri, Jonathan
 
