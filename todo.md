@@ -58,6 +58,9 @@
 - Présentation des différents membres de l'équipe (from Jonathan)
 - Est-ce qu'il y a des personnes administratrices (from Jonathan)
 - Forfait, régie ou autre ? (from Jonathan)
+- Garantie satisfaction? Compatible collective.work? Définir ce qu'on garantie. A prévoir dès le premier client?
+  - Remboursé première journée, ristourne sur une semaine (genre 50%), mois (genre 25%)?
+- Garantie 0 bug
 
 ## LATER
 - Prochaine discussion, prochaine action, prochain objectif ? (Dont move)
