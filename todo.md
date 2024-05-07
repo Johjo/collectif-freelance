@@ -19,19 +19,19 @@
 # TASK
 
 ## DONE
+- Déterminer la rémunération initiale (from Jonathan)
 
 ## WIP
+- Renseigner les profils sur collective.work, surtout la TVA (from Jonathan, to all)
+- Chacun doit donner son TJM de base sur collective.work (from Jonathan, to all)
+- Remplir ses réalisations dans collective.work (to all)
+- Ecrire un spitch orienté futur client du collectif (to all)
 
 ## NEXT
-- Chacun doit donner son TJM de base sur collective.work (from Jonathan)
 
 ## LATER
-- Remplir la page collective.work (from Jonathan)
-- Déterminer un nom pour le collectif (actuellement ytreza.dev) (from Jonathan)
-- Déterminer la rémunération initiale (from Jonathan)
-- Renseigner les profils sur collective.work, surtout la TVA (from Jonathan)
-- Ecrire un spitch orienté futur membre du collectif
 - Ecrire un spitch orienté futur client du collectif
+- Ecrire un spitch orienté futur membre du collectif
 - Ecrire un spitch détaillé orienté membre et client 
 
 ## NOT A TASK
@@ -61,7 +61,12 @@
 - Garantie satisfaction? Compatible collective.work? Définir ce qu'on garantie. A prévoir dès le premier client?
   - Remboursé première journée, ristourne sur une semaine (genre 50%), mois (genre 25%)?
 - Garantie 0 bug
+- Déterminer un nom pour le collectif (actuellement ytreza.dev) (from Jonathan)
+- Valider le slogan 
+- Valider le manifest sur collective.work
+- Valider la page collective.work
 
+  
 ## LATER
 - Prochaine discussion, prochaine action, prochain objectif ? (Dont move)
 
