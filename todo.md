@@ -20,14 +20,15 @@
 
 ## DONE
 - Déterminer la rémunération initiale (from Jonathan)
-
-## WIP
 - Renseigner les profils sur collective.work, surtout la TVA (from Jonathan, to all)
 - Chacun doit donner son TJM de base sur collective.work (from Jonathan, to all)
 - Remplir ses réalisations dans collective.work (to all)
 - Ecrire un spitch orienté futur client du collectif
   - chacun rédige quelque chose de son côté (to all)
   - consolidation en mob (to mob)
+
+## WIP
+
 
 ## NEXT
 
