@@ -1,9 +1,9 @@
 Nous proposons une équipe :
-équilibrée
-motivée
-expérimentée
-pluridisciplinaire
-optimisée
+- équilibrée
+- motivée
+- expérimentée
+- pluridisciplinaire
+- optimisée
 
 Nous réunissons des personnes intéressantes et talentueuses mais qui sont soit trop loin, soit indisponibles autrement qu'à temps partiel.
 
