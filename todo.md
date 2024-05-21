@@ -28,7 +28,7 @@
   - consolidation en mob (to mob)
 
 ## WIP
-
+- Se faire accompagner dans la prospection par [Agnès Chaba](https://www.linkedin.com/in/agn%C3%A8s-chaba/)
 
 ## NEXT
 
@@ -54,7 +54,6 @@
 - Discuter de la rémunération (from Mickaël)
 - Comment est-ce que l'on prospecte ? (from Jonathan)
 - Quelles sont les disponibiltés de chacun ? (from Jonathan)
-- Est-ce qu'on rencontre [Agnès Chaba](https://www.linkedin.com/in/agn%C3%A8s-chaba/) pour nous accompagner dans la prospection ? (from Jonathan)
 - Comment organiser le collectif, occurrence, calendrier partagé, etc... (from Dimitri)
 - Quels sont les process que l'on souhaite mettre en place pour l'intelligence collective ? (from Jonathan)
 - Créer un repo privé ou une organisation au lieu de ce repo git public (from Jonathan)
