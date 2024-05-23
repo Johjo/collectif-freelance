@@ -1,3 +1,12 @@
+# Date 2024-05-23
+Participants : Didier S., Dimitri, Jonathan 
+
+Sujets abordés :
+
+## Disponibilité des membres
+Pour le moment, un simple fichier disponibilite.md
+
+
 # Date 2024-05-06
 Participants : Didier, Dimitri, Jonathan 
 
