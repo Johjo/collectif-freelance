@@ -29,6 +29,7 @@
 
 ## WIP
 - Se faire accompagner dans la prospection par [Agnès Chaba](https://www.linkedin.com/in/agn%C3%A8s-chaba/)
+- Indiquer ses disponibilités dans le fichier disponibilite.md
 
 ## NEXT
 - Finir de remplir la description dans collective work
@@ -51,9 +52,9 @@
 - Est-ce que l'on timebox les discussions sur chaque sujet (15 minutes) ? (from Jonathan)
 - Est-ce que l'on met en place une sorte d'ADR pour suivre toutes nos décisions ? (from Jonathan)
 - Déterminer un nom pour le collectif (actuellement ytreza.dev) (from Jonathan)
+- Quelles sont les disponibilités de chacun ? (from Jonathan)
 
 ## NEXT
-- Quelles sont les disponibilités de chacun ? (from Jonathan)
 - Discuter de la rémunération (from Mickaël)
 - Comment est-ce que l'on prospecte ? (from Jonathan)
 - Proposition de valeur
