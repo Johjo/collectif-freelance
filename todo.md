@@ -53,18 +53,18 @@
 - Déterminer un nom pour le collectif (actuellement ytreza.dev) (from Jonathan)
 
 ## NEXT
+- Quelles sont les disponibilités de chacun ? (from Jonathan)
 - Discuter de la rémunération (from Mickaël)
 - Comment est-ce que l'on prospecte ? (from Jonathan)
-- Quelles sont les disponibiltés de chacun ? (from Jonathan)
-- Comment organiser le collectif, occurrence, calendrier partagé, etc... (from Dimitri)
-- Quels sont les process que l'on souhaite mettre en place pour l'intelligence collective ? (from Jonathan)
-- Créer un repo privé ou une organisation au lieu de ce repo git public (from Jonathan)
-- Présentation des différents membres de l'équipe (from Jonathan)
 - Proposition de valeur
   - Forfait, régie ou autre ? (from Jonathan)
   - Garantie satisfaction? Compatible collective.work? Définir ce qu'on garantie. A prévoir dès le premier client?
     - Remboursé première journée, ristourne sur une semaine (genre 50%), mois (genre 25%)?
   - Garantie 0 bug
+- Comment organiser le collectif, occurrence, calendrier partagé, etc... (from Dimitri)
+- Quels sont les process que l'on souhaite mettre en place pour l'intelligence collective ? (from Jonathan)
+- Créer un repo privé ou une organisation au lieu de ce repo git public (from Jonathan)
+- Présentation des différents membres de l'équipe (from Jonathan)
 - Valider la page collective.work
 - Que faire des tâches en cours qui sont des sortes de projet ?
 
