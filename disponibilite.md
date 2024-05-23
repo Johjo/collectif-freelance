@@ -9,7 +9,6 @@ Jonathan
 - dispo en permanence
 - sauf derniere semaine de Mai
 - sauf 2 dernières semaines Aout
-- Faire un calendrier partagé pour ça
 
 Didier S.
 - Congés : 2 derniere semaines Juillet / 1ere Aout
