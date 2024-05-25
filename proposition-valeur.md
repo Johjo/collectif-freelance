@@ -19,7 +19,18 @@ Nous avons à coeur de satisfaire nos clients en délivrant quotidiennement de l
 Nous n'attendrons pas la fin du contrat pour évaluer la satisfaction et les retours de nos clients / utilisateurs.
 
 
+-------------
+Nous travaillons en équipe de 3 personnes qui ont l'habitude et qui ont choisi de collaborer ENSEMBLE.
 
+Pour suivre le bon déroulé de votre projet et assurer une communication claire, un référent est identifié. Il sera présent du début à la fin de la mission.
+À chaque étape du projet, un membre de l'équipe expert dans son domaine (front, back, CI/CD) cadrera et dirigera l'équipe.
+Ce format mob programming est d'autant plus important qu'il permet de restreindre et donc d'optimiser le nombre de canaux de communication et de s'assurer que chacun est dispensable.
+
+Notre sommes pilotés par la satisfaction client, que nous nous engagons à suivre quotidiennement. Grâce à un processus incrémental et itératif, nous mettrons en place le cadre nécessaire à livrer de la valeur chaque jour aux utilisateurs.
+
+
+
+-------------
 
 
 -----
