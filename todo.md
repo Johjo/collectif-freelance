@@ -70,6 +70,7 @@
 - Valider la page collective.work
 - Que faire des tâches en cours qui sont des sortes de projet ?
 - newcomers.md ou truc du style pour faciliter l'onboarding
+- Format event auto reschedule: intéréssé sur la récurrence et non l'occurence :/
 
   
 ## LATER
