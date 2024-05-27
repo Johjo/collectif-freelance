@@ -32,6 +32,7 @@
 - Indiquer ses disponibilités dans le fichier disponibilite.md
 - Finir de remplir la description dans collective work
 - Préparer un bot qui pose la question des dispos, chaque jour, pour notre créneau du midi
+- Donner les droits de modération du Discord à Alex et Dimitri
 
 ## NEXT
 
