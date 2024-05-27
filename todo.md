@@ -69,6 +69,7 @@
 - Présentation des différents membres de l'équipe (from Jonathan)
 - Valider la page collective.work
 - Que faire des tâches en cours qui sont des sortes de projet ?
+- newcomers.md ou truc du style pour faciliter l'onboarding
 
   
 ## LATER
