@@ -31,6 +31,7 @@
 - Se faire accompagner dans la prospection par [Agnès Chaba](https://www.linkedin.com/in/agn%C3%A8s-chaba/)
 - Indiquer ses disponibilités dans le fichier disponibilite.md
 - Finir de remplir la description dans collective work
+- Préparer un bot qui pose la question des dispos, chaque jour, pour notre créneau du midi
 
 ## NEXT
 
@@ -61,16 +62,14 @@
     - Remboursé première journée, ristourne sur une semaine (genre 50%), mois (genre 25%)?
   - Garantie 0 bug
 - Discuter de la rémunération (from Mickaël)
-- Comment est-ce que l'on prospecte ? (from Jonathan)
-- Intégrer membre / branding collectif / ramification (from Jonathan)
-- Comment organiser le collectif, occurrence, calendrier partagé, etc... (from Dimitri)
-- Quels sont les process que l'on souhaite mettre en place pour l'intelligence collective ? (from Jonathan)
-- Créer un repo privé ou une organisation au lieu de ce repo git public (from Jonathan)
-- Présentation des différents membres de l'équipe (from Jonathan)
-- Valider la page collective.work
-- Que faire des tâches en cours qui sont des sortes de projet ?
-- newcomers.md ou truc du style pour faciliter l'onboarding
-- Format event auto reschedule: intéréssé sur la récurrence et non l'occurence :/
+- Comment est-ce que l'on prospecte ?
+- Intégrer membre / branding collectif / ramification
+- Calendrier partagé?
+- Créer un repo privé ou une organisation au lieu de ce repo git public
+- Présentation des différents membres de l'équipe -> profil collective.work suffisant?
+- Valider la page collective.work -> RAF?
+- newcomers.md ou truc du style (même audio?) pour faciliter l'onboarding?
+  - Préparer vs enregistrer le prochain?  
 
   
 ## LATER
