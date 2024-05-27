@@ -15,6 +15,10 @@ Didier S.
 - BPI : commence le 3 Juin
 - Dispo BPI à négocier, peut-être des jours à gauche à droite
 
+Alexandre
+- dispo en permanence (la plupart du temps entre 9h et 17h30)
+- rien de prévu sur l'été pour le moment
+
 Didier E.
 
 Mickael
