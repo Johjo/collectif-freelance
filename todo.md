@@ -70,7 +70,8 @@
 - Présentation des différents membres de l'équipe -> profil collective.work suffisant?
 - Valider la page collective.work -> RAF?
 - newcomers.md ou truc du style (même audio?) pour faciliter l'onboarding?
-  - Préparer vs enregistrer le prochain?  
+  - Préparer vs enregistrer le prochain?
+- Avoir un outil pour suivre la prospection
 
   
 ## LATER
