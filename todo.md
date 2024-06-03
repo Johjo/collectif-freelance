@@ -26,13 +26,13 @@
 - Ecrire un spitch orienté futur client du collectif
   - chacun rédige quelque chose de son côté (to all)
   - consolidation en mob (to mob)
+- Préparer un bot qui pose la question des dispos, chaque jour, pour notre créneau du midi
+- Donner les droits de modération du Discord à Alex et Dimitri
 
 ## WIP
 - Se faire accompagner dans la prospection par [Agnès Chaba](https://www.linkedin.com/in/agn%C3%A8s-chaba/)
 - Indiquer ses disponibilités dans le fichier disponibilite.md
 - Finir de remplir la description dans collective work
-- Préparer un bot qui pose la question des dispos, chaque jour, pour notre créneau du midi
-- Donner les droits de modération du Discord à Alex et Dimitri
 
 ## NEXT
 
