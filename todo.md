@@ -31,8 +31,9 @@
 
 ## WIP
 - Se faire accompagner dans la prospection par [Agnès Chaba](https://www.linkedin.com/in/agn%C3%A8s-chaba/)
-- Indiquer ses disponibilités dans le fichier disponibilite.md
-- Finir de remplir la description dans collective work
+- MWE
+  - Finir de remplir la description dans collective work
+  - Indiquer ses disponibilités dans le fichier disponibilite.md
 
 ## NEXT
 
