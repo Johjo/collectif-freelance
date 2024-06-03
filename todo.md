@@ -30,21 +30,21 @@
 - Donner les droits de modération du Discord à Alex et Dimitri
 - JLA: Donner les droits de donner des droits (nouveaux freelance + bot, etc.)
 - JLA: Mettre le repo public
+- Proposition de valeur
+- Ecrire un spitch orienté futur client du collectif
+- Ecrire un spitch orienté futur membre du collectif
+- Ecrire un spitch détaillé orienté membre et client 
 
 ## WIP
 - Se faire accompagner dans la prospection par [Agnès Chaba](https://www.linkedin.com/in/agn%C3%A8s-chaba/)
 - MWE
   - Finir de remplir la description dans collective work
   - Indiquer ses disponibilités dans le fichier disponibilite.md
-- Proposition de valeur
 - ATE: Check un outil (HubSpot)
 
 ## NEXT
 
 ## LATER
-- Ecrire un spitch orienté futur client du collectif
-- Ecrire un spitch orienté futur membre du collectif
-- Ecrire un spitch détaillé orienté membre et client 
 
 ## NOT A TASK
 
