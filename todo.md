@@ -34,6 +34,10 @@
 - MWE
   - Finir de remplir la description dans collective work
   - Indiquer ses disponibilités dans le fichier disponibilite.md
+- JLA: Donner les droits de donner des droits (nouveaux freelance + bot, etc.)
+- JLA: Mettre le repo public
+- Proposition de valeur
+- ATE: Check un outil (HubSpot)
 
 ## NEXT
 
@@ -58,21 +62,14 @@
 - Quelles sont les disponibilités de chacun ? (from Jonathan)
 
 ## NEXT
-- Proposition de valeur
-  - Forfait, régie ou autre ? (from Jonathan)
-  - Garantie satisfaction? Compatible collective.work? Définir ce qu'on garantie. A prévoir dès le premier client?
-    - Remboursé première journée, ristourne sur une semaine (genre 50%), mois (genre 25%)?
-  - Garantie 0 bug
+- Avoir un outil pour suivre la prospection: Hubspot gratos? Airtable? CRM gratos? etc.
 - Discuter de la rémunération (from Mickaël)
 - Comment est-ce que l'on prospecte ?
 - Intégrer membre / branding collectif / ramification
 - Calendrier partagé?
-- Créer un repo privé ou une organisation au lieu de ce repo git public
-- Présentation des différents membres de l'équipe -> profil collective.work suffisant?
-- Valider la page collective.work -> RAF?
 - newcomers.md ou truc du style (même audio?) pour faciliter l'onboarding?
   - Préparer vs enregistrer le prochain?
-- Avoir un outil pour suivre la prospection
+- Caler des créneaux pour pair/mob sur du code (par ex :))
 
   
 ## LATER
