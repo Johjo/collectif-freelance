@@ -29,13 +29,13 @@
 - Préparer un bot qui pose la question des dispos, chaque jour, pour notre créneau du midi
 - Donner les droits de modération du Discord à Alex et Dimitri
 - JLA: Donner les droits de donner des droits (nouveaux freelance + bot, etc.)
+- JLA: Mettre le repo public
 
 ## WIP
 - Se faire accompagner dans la prospection par [Agnès Chaba](https://www.linkedin.com/in/agn%C3%A8s-chaba/)
 - MWE
   - Finir de remplir la description dans collective work
   - Indiquer ses disponibilités dans le fichier disponibilite.md
-- JLA: Mettre le repo public
 - Proposition de valeur
 - ATE: Check un outil (HubSpot)
 
