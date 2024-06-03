@@ -20,6 +20,8 @@ Alexandre
 - rien de prévu sur l'été pour le moment
 
 Didier E.
+- pas de dispo pour le moment
+- peut se libérer ponctuellement si besoin pour quelques demi-journées ou journées
 
 Mickael
 
