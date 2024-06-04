@@ -70,7 +70,7 @@
 - newcomers.md ou truc du style (même audio?) pour faciliter l'onboarding?
   - Préparer vs enregistrer le prochain?
 - Caler des créneaux pour pair/mob sur du code (par ex :))
-- RC professionnel ? (from Jonathan)
+- Responsabilité Civile professionnel ? (from Jonathan)
 
   
 ## LATER
