@@ -41,6 +41,7 @@
   - Finir de remplir la description dans collective work
   - Indiquer ses disponibilités dans le fichier disponibilite.md
 - ATE: Check un outil (HubSpot)
+- Schedule un message chaque dimanche midi pour proposer un créneau d'un heure entre 12h et 14h pair/mob
 
 ## NEXT
 
@@ -69,7 +70,6 @@
 - Calendrier partagé?
 - newcomers.md ou truc du style (même audio?) pour faciliter l'onboarding?
   - Préparer vs enregistrer le prochain?
-- Caler des créneaux pour pair/mob sur du code (par ex :))
 - Responsabilité Civile professionnel ? (from Jonathan)
 
   
