@@ -1,3 +1,15 @@
+# Date 2024-06-04
+Participants : Didier S., Dimitri, Jonathan 
+
+Sujets abordés :
+
+## Mettre en place des sessions d'exercice
+- Demander le jour en début de semaine
+- Créneau entre midi et deux
+- Proposer des sujets d'exercice dans un pool de sujets
+- Apprendre en priorité : mob programming - TDD
+
+
 # Date 2024-05-23
 Participants : Didier S., Dimitri, Jonathan 
 
