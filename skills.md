@@ -11,6 +11,10 @@
   - Expertise forte: Python, TDD, architecture hexagonale, WinDev
   - Expertise moyenne: C#, rust
 
+### Fonctionnel
+  - Connaissance en méthodologie de gestion des tâches (Getting Thing Done, Inbox Zero, etc...)
+  - Connaissance en facilitation, intelligence collective, etc...
+
 # Alexandre T.
 ### Technique
   - Expertise forte:  C# ( Framework .NET et Blazor ), Postgres/SQL Server, Gitlab/Gihub/Azure (CI/CD)
