@@ -24,3 +24,9 @@
   - Connaissance en Finance / Trading / Bourse par passion
   - Connaissance en immobilier / gestion d'entreprise car ce sont des objectifs perso
   - Connaissance en botanique car j'ai travailler dans une startup sur ce sujet
+
+# Mickael
+### Technique
+  - Back : Node (JS/TS), PHP, Java, Kotlin, Scala
+  - Front : React, Vue, Angular
+  - OPS : Kube, Ansible (un peu), Terraform, AWS
