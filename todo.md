@@ -34,14 +34,14 @@
 - Ecrire un spitch orienté futur client du collectif
 - Ecrire un spitch orienté futur membre du collectif
 - Ecrire un spitch détaillé orienté membre et client 
+- ATE: Check un outil (HubSpot)
 
 ## WIP
 - Se faire accompagner dans la prospection par [Agnès Chaba](https://www.linkedin.com/in/agn%C3%A8s-chaba/)
 - MWE
-  - Finir de remplir la description dans collective work
   - Indiquer ses disponibilités dans le fichier disponibilite.md
-- ATE: Check un outil (HubSpot)
-- Schedule un message chaque dimanche midi pour proposer un créneau d'un heure entre 12h et 14h pair/mob
+- DKO: Schedule un message chaque dimanche midi pour proposer un créneau d'un heure entre 12h et 14h pair/mob
+- Communiquer sur LI sur l'app qu'on va build in public en mod
 
 ## NEXT
 
@@ -61,16 +61,17 @@
 - Est-ce que l'on met en place une sorte d'ADR pour suivre toutes nos décisions ? (from Jonathan)
 - Déterminer un nom pour le collectif (actuellement ytreza.dev) (from Jonathan)
 - Quelles sont les disponibilités de chacun ? (from Jonathan)
+- Avoir un outil pour suivre la prospection: Hubspot gratos? Airtable? CRM gratos? etc. --> Hubspot
 
 ## NEXT
-- Avoir un outil pour suivre la prospection: Hubspot gratos? Airtable? CRM gratos? etc.
+- Build une app par/pour le collectif
 - Discuter de la rémunération (from Mickaël)
 - Comment est-ce que l'on prospecte ?
 - Intégrer membre / branding collectif / ramification
 - Calendrier partagé?
 - newcomers.md ou truc du style (même audio?) pour faciliter l'onboarding?
   - Préparer vs enregistrer le prochain?
-- Responsabilité Civile professionnel ? (from Jonathan)
+- Responsabilité Civile professionnel ? -> Attente du premier client qui la demandera
 
   
 ## LATER
