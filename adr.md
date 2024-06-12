@@ -3,6 +3,7 @@
 C'est normal avec les missions en parallèle de chacun.  
 On s'est demandé si ça pouvait être sympa d'avoir un endroit pour consolider ce sur quoi chacun travaille (channel Discord ou autre).  
 
+### Accélérer le démmarage de la première mission
 Houcem nous a proposé d'être assez ouvert même pour la première mission même si le TJM n'est pas celui attendu ou qu'on avance pas en mob (pair a minima ?).  
 Il a aussi évoqué la possibilité d'aller chercher des apporteurs d'affaire. L'objectif reste celui du collectif: trouver la première mission.
 
