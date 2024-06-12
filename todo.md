@@ -72,6 +72,7 @@
 - newcomers.md ou truc du style (même audio?) pour faciliter l'onboarding?
   - Préparer vs enregistrer le prochain?
 - Responsabilité Civile professionnel ? -> Attente du premier client qui la demandera
+- Mettre en place un système pour suivre les actions de chacun concernant le collectif
 
   
 ## LATER
