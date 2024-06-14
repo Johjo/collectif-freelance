@@ -1,3 +1,9 @@
+# 2024-06-14 [Alexandre, Didier E., Dimitri]
+### Proposition de valeur dans Git
+Proposition de valeur collective.work (issue framapad) split dans proposition-valeur-v2.md et déroulement-projet.md.  
+Dans la v2, on a intégré les retours de PR de Didier E (voir sa PR)
+Il faut qu'on continue à mettre des exemples, des chiffres et surtout construire la prosition de valeur pour répondre à la partie Constat.
+
 # 2024-06-12 [Dimitri, Houcem, Jonathan]
 ### Sensation d'essoufflement
 C'est normal avec les missions en parallèle de chacun.  
