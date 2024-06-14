@@ -1,5 +1,15 @@
-Notre collectif a été conçu pour vous proposer une solution agile, qui respecte vos objectifs, vos délais et votre budget.
+**Notre constat**
 
+Les produits par les acteurs de l'informatique souffrent en très grande majorité de l'*anomalite* aigüe. Comprenez par là que sur la plupart des applications produites, des coûts non négligeables sont destinés à la correction d'anomalies plutôt qu'à l'enrichissement de leurs fonctionnalités.
+
+**Pourquoi ?**
+
+Les méthodes généralement utilisées dans l'industrie logiciel ne sont pas pensées pour suivre les changements continus du secteur.
+Dans de nombreux cas, les entreprises proposent leurs expertises en avançant les termes à la mode promettant qualité et maîtrise de coûts mais en détournant de l'essence des notions dont elles vantent les mérites.
+
+**Notre proposition**
+
+Notre collectif a été conçu pour vous proposer une solution garantie zéro bug, qui respecte vos objectifs, vos délais et votre budget.
 
 Nous apportons plusieurs garanties.
 
