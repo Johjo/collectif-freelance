@@ -5,6 +5,7 @@
 
 ### Fonctionnel
   - Collecte, paiement et pré-comptabilisation de facture fournisseurs
+  - Traçabilité de produits sanguins labiles
 
 # Jonathan
 ### Technique
