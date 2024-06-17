@@ -44,6 +44,7 @@
 - Communiquer sur LI sur l'app qu'on va build in public en mod
 - DKO & ATE: Envoyer un message aux OUI pour un créneau de 2h le 18 entre 13h et 17h.
    - Donner le contexte: app from scratch avec pour objectif de montrer quelque chose à la fin de la session. Demander à la personne qu'est-ce qu'elle va apporter pour répondre à ça.
+- DKO : S'assurer que c'est ok pour Edouard demain 13h30 - 15h30 et communiquer sur LI qu'il est l'heureux élu
 
 ## NEXT
 
