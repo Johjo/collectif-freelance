@@ -35,15 +35,15 @@
 - Ecrire un spitch orienté futur membre du collectif
 - Ecrire un spitch détaillé orienté membre et client 
 - ATE: Check un outil (HubSpot)
+- Communiquer sur LI sur l'app qu'on va build in public en mod
+- DKO & ATE: Envoyer un message aux OUI pour un créneau de 2h le 18 entre 13h et 17h.
+   - Donner le contexte: app from scratch avec pour objectif de montrer quelque chose à la fin de la session. Demander à la personne qu'est-ce qu'elle va apporter pour répondre à ça.
+
 
 ## WIP
 - Se faire accompagner dans la prospection par [Agnès Chaba](https://www.linkedin.com/in/agn%C3%A8s-chaba/)
 - MWE
   - Indiquer ses disponibilités dans le fichier disponibilite.md
-- DKO: Schedule un message chaque dimanche midi pour proposer un créneau d'un heure entre 12h et 14h pair/mob
-- Communiquer sur LI sur l'app qu'on va build in public en mod
-- DKO & ATE: Envoyer un message aux OUI pour un créneau de 2h le 18 entre 13h et 17h.
-   - Donner le contexte: app from scratch avec pour objectif de montrer quelque chose à la fin de la session. Demander à la personne qu'est-ce qu'elle va apporter pour répondre à ça.
 - DKO : S'assurer que c'est ok pour Edouard demain 13h30 - 15h30 et communiquer sur LI qu'il est l'heureux élu
 
 ## NEXT
