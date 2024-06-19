@@ -72,11 +72,12 @@
 
 ## NEXT
 - newcomers.md ou truc du style (même audio?) pour faciliter l'onboarding?
-  - Préparer vs enregistrer le prochain?
+  - Utiliser/paramétrer la feat d'onboarding dans Discord 
 - Communiquer sur LI le prochaine session de mob (reprendre le pool)
 - Relance sur les actions d'accompagnement avec Agnès
 - Calendrier partagé?
 - Discuter de la rémunération (from Mickaël)
+- Revoir la structure des channels dans Discord? On s'y retrouve pour le moment cela dit :)
 
 
 - Intégrer membre / branding collectif / ramification
