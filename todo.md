@@ -38,13 +38,15 @@
 - Communiquer sur LI sur l'app qu'on va build in public en mod
 - DKO & ATE: Envoyer un message aux OUI pour un créneau de 2h le 18 entre 13h et 17h.
    - Donner le contexte: app from scratch avec pour objectif de montrer quelque chose à la fin de la session. Demander à la personne qu'est-ce qu'elle va apporter pour répondre à ça.
+- DKO : S'assurer que c'est ok pour Edouard demain 13h30 - 15h30 et communiquer sur LI qu'il est l'heureux élu
 
 
 ## WIP
 - Se faire accompagner dans la prospection par [Agnès Chaba](https://www.linkedin.com/in/agn%C3%A8s-chaba/)
 - MWE
   - Indiquer ses disponibilités dans le fichier disponibilite.md
-- DKO : S'assurer que c'est ok pour Edouard demain 13h30 - 15h30 et communiquer sur LI qu'il est l'heureux élu
+- DKO: Trouver le prochain créneau avec Agnès semaine du 24/06
+- Trouver un créneau pour la prochaine session de mob YtrezaTooling -> Proposer semaine pro
 
 ## NEXT
 
@@ -65,21 +67,24 @@
 - Déterminer un nom pour le collectif (actuellement ytreza.dev) (from Jonathan)
 - Quelles sont les disponibilités de chacun ? (from Jonathan)
 - Avoir un outil pour suivre la prospection: Hubspot gratos? Airtable? CRM gratos? etc. --> Hubspot
+- Mettre en place un système pour suivre les actions de chacun concernant le collectif -> Canal #nos-actions
+- Build une app par/pour le collectif -> session de mob live stream
 
 ## NEXT
-- Build une app par/pour le collectif
-- Discuter de la rémunération (from Mickaël)
-- Comment est-ce que l'on prospecte ?
-- Intégrer membre / branding collectif / ramification
-- Calendrier partagé?
 - newcomers.md ou truc du style (même audio?) pour faciliter l'onboarding?
   - Préparer vs enregistrer le prochain?
-- Responsabilité Civile professionnel ? -> Attente du premier client qui la demandera
-- Mettre en place un système pour suivre les actions de chacun concernant le collectif
+- Communiquer sur LI le prochaine session de mob (reprendre le pool)
+- Relance sur les actions d'accompagnement avec Agnès
+- Calendrier partagé?
+- Discuter de la rémunération (from Mickaël)
 
+
+- Intégrer membre / branding collectif / ramification
+  - A préciser / split
   
 ## LATER
 - Prochaine discussion, prochaine action, prochain objectif ? (Dont move)
+- Responsabilité Civile professionnel ? -> Attente du premier client qui la demandera
 
 ## NOT TO DISCUSS
 
