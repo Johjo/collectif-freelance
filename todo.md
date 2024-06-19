@@ -47,6 +47,7 @@
   - Indiquer ses disponibilités dans le fichier disponibilite.md
 - DKO: Trouver le prochain créneau avec Agnès semaine du 24/06
 - Trouver un créneau pour la prochaine session de mob YtrezaTooling -> Proposer semaine pro
+- Collective: Relance sur MAJ proposition de valeurs avec exemples + chiffres, etc.
 
 ## NEXT
 
