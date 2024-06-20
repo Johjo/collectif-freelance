@@ -78,7 +78,8 @@
 - Calendrier partagé?
 - Discuter de la rémunération (from Mickaël)
 - Revoir la structure des channels dans Discord? On s'y retrouve pour le moment cela dit :)
-
+- mob avec Yann PETIT
+- collective.work join requests
 
 - Intégrer membre / branding collectif / ramification
   - A préciser / split
