@@ -46,7 +46,7 @@
 - MWE
   - Indiquer ses disponibilités dans le fichier disponibilite.md
 - DKO: Trouver le prochain créneau avec Agnès semaine du 24/06
-- Trouver un créneau pour la prochaine session de mob YtrezaTooling -> Proposer semaine pro
+- Trouver un créneau pour la prochaine session de mob YtrezaTooling -> Proposer semaine pro 27 ou 28 12h15-14h00 (objectif 1h30 à terme pour être efficace ?)
 - Collective: Relance sur MAJ proposition de valeurs avec exemples + chiffres, etc.
 
 ## NEXT
