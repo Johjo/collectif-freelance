@@ -72,8 +72,7 @@
 - Build une app par/pour le collectif -> session de mob live stream
 
 ## NEXT
-- newcomers.md ou truc du style (même audio?) pour faciliter l'onboarding?
-  - Utiliser/paramétrer la feat d'onboarding dans Discord 
+- Affiner l'onboarding dans Discord 
 - Communiquer sur LI le prochaine session de mob (reprendre le pool)
 - Relance sur les actions d'accompagnement avec Agnès
 - Calendrier partagé?
