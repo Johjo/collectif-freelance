@@ -70,6 +70,8 @@
 - Avoir un outil pour suivre la prospection: Hubspot gratos? Airtable? CRM gratos? etc. --> Hubspot
 - Mettre en place un système pour suivre les actions de chacun concernant le collectif -> Canal #nos-actions
 - Build une app par/pour le collectif -> session de mob live stream
+- collective.work join requests
+- prévoir pair/mob avec Yann PETIT
 
 ## NEXT
 - Affiner l'onboarding dans Discord 
@@ -78,8 +80,6 @@
 - Calendrier partagé? (de nouveau remonté le 24-06 pour trouver un créneau avec un freelance potentiel)
 - Discuter de la rémunération (from Mickaël)
 - Revoir la structure des channels dans Discord? On s'y retrouve pour le moment cela dit :)
-- mob avec Yann PETIT
-- collective.work join requests
 
 - Intégrer membre / branding collectif / ramification
   - A préciser / split
