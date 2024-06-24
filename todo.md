@@ -75,7 +75,7 @@
 - Affiner l'onboarding dans Discord 
 - Communiquer sur LI le prochaine session de mob (reprendre le pool)
 - Relance sur les actions d'accompagnement avec Agnès
-- Calendrier partagé?
+- Calendrier partagé? (de nouveau remonté le 24-06 pour trouver un créneau avec un freelance potentiel)
 - Discuter de la rémunération (from Mickaël)
 - Revoir la structure des channels dans Discord? On s'y retrouve pour le moment cela dit :)
 - mob avec Yann PETIT
