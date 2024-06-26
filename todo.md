@@ -45,9 +45,10 @@
 - Se faire accompagner dans la prospection par [Agnès Chaba](https://www.linkedin.com/in/agn%C3%A8s-chaba/)
 - MWE
   - Indiquer ses disponibilités dans le fichier disponibilite.md
-- DKO: Trouver le prochain créneau avec Agnès semaine du 24/06
+- DKO: Trouver le prochain créneau avec Agnès semaine du 01/07
 - Trouver un créneau pour la prochaine session de mob YtrezaTooling -> Proposer semaine pro 27 ou 28 12h15-14h00 (objectif 1h30 à terme pour être efficace ?)
 - Collective: Relance sur MAJ proposition de valeurs avec exemples + chiffres, etc.
+- Trouver un outil pour partager un calendrier
 
 ## NEXT
 
@@ -74,10 +75,10 @@
 - prévoir pair/mob avec Yann PETIT
 
 ## NEXT
-- Affiner l'onboarding dans Discord 
-- Communiquer sur LI le prochaine session de mob (reprendre le pool)
-- Relance sur les actions d'accompagnement avec Agnès
 - Calendrier partagé? (de nouveau remonté le 24-06 pour trouver un créneau avec un freelance potentiel)
+- Affiner l'onboarding dans Discord
+- Communiquer sur LI la prochaine session de mob (reprendre le pool)
+- Relance sur les actions d'accompagnement avec Agnès
 - Discuter de la rémunération (from Mickaël)
 - Revoir la structure des channels dans Discord? On s'y retrouve pour le moment cela dit :)
 
