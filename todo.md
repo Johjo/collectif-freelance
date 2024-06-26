@@ -39,6 +39,7 @@
 - DKO & ATE: Envoyer un message aux OUI pour un créneau de 2h le 18 entre 13h et 17h.
    - Donner le contexte: app from scratch avec pour objectif de montrer quelque chose à la fin de la session. Demander à la personne qu'est-ce qu'elle va apporter pour répondre à ça.
 - DKO : S'assurer que c'est ok pour Edouard demain 13h30 - 15h30 et communiquer sur LI qu'il est l'heureux élu
+- Calendrier partagé: on va partager nos calendriers Google entre nous et s'appuyer dessus pour caler des créneaux (Agnès, mob, etc.)
 
 
 ## WIP
@@ -48,7 +49,6 @@
 - DKO: Trouver le prochain créneau avec Agnès semaine du 01/07
 - Trouver un créneau pour la prochaine session de mob YtrezaTooling -> Proposer semaine pro 27 ou 28 12h15-14h00 (objectif 1h30 à terme pour être efficace ?)
 - Collective: Relance sur MAJ proposition de valeurs avec exemples + chiffres, etc.
-- Trouver un outil pour partager un calendrier
 
 ## NEXT
 
