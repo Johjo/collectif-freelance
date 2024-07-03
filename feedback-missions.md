@@ -16,6 +16,10 @@ l'installation pour pouvoir travailler prend du temps.
   - Présence de test, facilité de lecture des tests, qualité, arborescence simple/complexe, code commenté
   - Présence de CI
   - Processus de déploiement (PR ?) et autonomie ?
+  - Dérouler un des use case qui est demandé (composant front, controller, use case, infra)
+    - Ou développer une première fonctionnalité en mob avec le client
+    - En parallèle, on renseigne notre audit / rapport d'étonnement
+      - Avantage: en sortie de mob, le client a une feat (sur laquelle il a été principal contributeur) et un audit (sur lequel on a été principaux contributeurs)
 
 
 
