@@ -6,11 +6,16 @@ l'installation pour pouvoir travailler prend du temps.
 
 => Plusieurs actions à prévoir : 
 - documenter toutes nos actions de mise en place (voir slow debug)
+  - A bien marché. La procédure d'installation qui en sort est clean
 - valoriser cette étape auprès du client. Même si on ne travaille pas avec, on peut lui fournir un livrable d'installation de poste.
 - valider avec le client les pré-requis : 
     - windows, linux
     - utilisation de docker
     - les versions des modules, etc...
+- audit de code avec livrable
+  - Présence de test, facilité de lecture des tests, qualité, arborescence simple/complexe, code commenté
+  - Présence de CI
+  - Processus de déploiement (PR ?) et autonomie ?
 
 
 
