@@ -20,7 +20,7 @@ l'installation pour pouvoir travailler prend du temps.
     - Ou développer une première fonctionnalité en mob avec le client
     - En parallèle, on renseigne notre audit / rapport d'étonnement
       - Avantage: en sortie de mob, le client a une feat (sur laquelle il a été principal contributeur) et un audit (sur lequel on a été principaux contributeurs)
-
+- faire intervenir des freelance avec les compétences et proposer un tarif intéressant pour valoriser le taf (1h passée = 2h payées par ex)
 
 
 
