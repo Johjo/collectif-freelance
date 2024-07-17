@@ -26,5 +26,11 @@ l'installation pour pouvoir travailler prend du temps.
   - le RAF
   - les infos (framapad, etc.)
 
-
+Mode de fonctionnement quand le client nous impose un budget
+  - Comment faire part de l'avancement?
+    - Indiquer à chaque livraison (ou PR selon le flow) le consommé
+    - Prendre en compte les retours et indiquer de nouveau le consommé
+    - Demander régulièrement si c'est ok de continuer ou non par rapport au consommé / restant
+      - Typiquement on a consommé presque 100% du budget à la livraison de la MAJ de la documentation d'installation
+    
 
