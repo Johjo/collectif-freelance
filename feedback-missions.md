@@ -12,6 +12,7 @@ l'installation pour pouvoir travailler prend du temps.
     - windows, linux
     - utilisation de docker
     - les versions des modules, etc...
+  - valider le bon fonctionnement de l'app vis à vis du poste du client ("chez moi ça prend 2s à charger cette page" -> chez nous 1min par ex)
 - audit de code avec livrable
   - Présence de test, facilité de lecture des tests, qualité, arborescence simple/complexe, code commenté
   - Présence de CI
