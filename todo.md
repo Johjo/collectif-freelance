@@ -46,9 +46,9 @@
 - Se faire accompagner dans la prospection par [Agnès Chaba](https://www.linkedin.com/in/agn%C3%A8s-chaba/)
 - MWE
   - Indiquer ses disponibilités dans le fichier disponibilite.md
-- DKO: Trouver le prochain créneau avec Agnès semaine du 01/07
 - Trouver un créneau pour la prochaine session de mob YtrezaTooling -> Proposer semaine pro 27 ou 28 12h15-14h00 (objectif 1h30 à terme pour être efficace ?)
 - Collective: Relance sur MAJ proposition de valeurs avec exemples + chiffres, etc.
+- DKO: Trouver un outil pour avoir un blog du collectif tout en permettant d'écrire au niveau de l'individu
 
 ## NEXT
 
