@@ -26,6 +26,7 @@ l'installation pour pouvoir travailler prend du temps.
   - le temps passé
   - le RAF
   - les infos (framapad, etc.)
+- mettre une deadline pour savoir si la mission se poursuit ou non (voir proposition de valeur)
 
 Mode de fonctionnement quand le client nous impose un budget
   - Comment faire part de l'avancement?
