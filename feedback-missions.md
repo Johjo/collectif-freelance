@@ -27,6 +27,7 @@ l'installation pour pouvoir travailler prend du temps.
   - le RAF
   - les infos (framapad, etc.)
 - mettre une deadline pour savoir si la mission se poursuit ou non (voir proposition de valeur)
+  - Caler direct des rappels dans les agendas de chacun? j+2, j+7, j+14 par ex?
 
 Mode de fonctionnement quand le client nous impose un budget
   - Comment faire part de l'avancement?
