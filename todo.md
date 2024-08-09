@@ -75,6 +75,7 @@
 - prévoir pair/mob avec Yann PETIT
 
 ## NEXT
+- Créer une page de collectif sur linkedin pour mettre en avant nos prestations
 - Calendrier partagé? (de nouveau remonté le 24-06 pour trouver un créneau avec un freelance potentiel)
 - Affiner l'onboarding dans Discord
 - Communiquer sur LI la prochaine session de mob (reprendre le pool)
